@@ -31,7 +31,7 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
----
+```
 cover.html
 {% load static %}
 <!DOCTYPE html>
@@ -106,8 +106,7 @@ body, html {
 </body>
 </html>
 
-
----
+```
 
 
 ## OUTPUT:
